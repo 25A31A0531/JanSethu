@@ -1,0 +1,1347 @@
+[
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "ta",
+    "prompt": "பிஎம் கிசான் அடுத்த தவணை வங்கிக் கணக்கில் எப்போது வரும்?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "kn",
+    "prompt": "ಪಿಎಂ ಕಿಸಾನ್ ಮುಂದಿನ ಕಂತಿನ ಹಣ ಖಾತೆಗೆ ಯಾವಾಗ ಜಮೆಯಾಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "ml",
+    "prompt": "പിഎം കിസാൻ അടുത്ത ഗഡു ബാങ്ക് അക്കൗണ്ടിൽ എപ്പോൾ വരും?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "bn",
+    "prompt": "পিএম কিষাণের পরবর্তী কিস্তি ব্যাংক অ্যাকাউন্টে কবে আসবে?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "gu",
+    "prompt": "પીએમ કિસાનનો આગામી હપ્તો બેંક ખાતામાં ક્યારે આવશે?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "pa",
+    "prompt": "ਪੀਐਮ ਕਿਸਾਨ ਦੀ ਅਗਲੀ ਕਿਸ਼ਤ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਕਦੋਂ ਆਵੇਗੀ?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "od",
+    "prompt": "ପିଏମ କିଷାନ ପରବର୍ତ୍ତୀ କିସ୍ତି ବ୍ୟାଙ୍କ ଖାତାରେ କେବେ ଆସିବ?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "as",
+    "prompt": "পিএম কিষাণৰ পৰৱৰ্তী কিস্তি বেংক একাউণ্টত কেতিয়া সোমাব?"
+  },
+  {
+    "schemeId": "pm_kisan_samman_nidhi",
+    "lang": "ur",
+    "prompt": "پی ایم کسان کی اگلی قسط بینک کھاتے میں کب آئے گی؟"
+  },
+  {
+    "schemeId": "pm_fasal_bima_yojana",
+    "lang": "ta",
+    "prompt": "பிஎம் பயிர் காப்பீட்டு திட்டத்தில் பயிர் இழப்பு கோருவது எப்படி?"
+  },
+  {
+    "schemeId": "pm_fasal_bima_yojana",
+    "lang": "kn",
+    "prompt": "ಪಿಎಂ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆಯಡಿ ಬೆಳೆ ನಷ್ಟ ಪರಿಹಾರ ಪಡೆಯುವುದು ಹೇಗೆ?"
+  },
+  {
+    "schemeId": "pm_fasal_bima_yojana",
+    "lang": "ml",
+    "prompt": "പിഎം ഫസൽ ബീമ യോജന പ്രകാരം വിള നഷ്ടപരിഹാരം എങ്ങനെ ലഭിക്കും?"
+  },
+  {
+    "schemeId": "kisan_credit_card_kcc",
+    "lang": "gu",
+    "prompt": "કેસીસી કાર્ડ દ્વારા ખેતી માટે લોન કેવી રીતે મેળવવી?"
+  },
+  {
+    "schemeId": "pm_kusum_solar_pump",
+    "lang": "kn",
+    "prompt": "ಕೃಷಿ ಸೋಲಾರ್ ವಾಟರ್ ಪಂಪ್‌ಗೆ ಸರ್ಕಾರ ಎಷ್ಟು ಸಬ್ಸಿಡಿ ನೀಡುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "pm_kusum_solar_pump",
+    "lang": "ml",
+    "prompt": "സോളാർ പമ്പിന് സർക്കാർ സബ്സിഡി എത്രയാണ്?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "te",
+    "prompt": "పశుసంవర్ధక శాఖ సబ్సిడీ పథకంలో అర్హతలు ఏమిటి?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "kn",
+    "prompt": "ಡೈರಿ ಫಾರ್ಮ್ ಆರಂಭಿಸಲು ಸರ್ಕಾರದಿಂದ ಸಹಾಯಧನ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "ml",
+    "prompt": "മൃഗസംരക്ഷണ സംരംഭങ്ങൾക്ക് എത്ര രൂപ സബ്സിഡി കിട്ടും?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "mr",
+    "prompt": "डेअरी फार्म सुरू करण्यासाठी कर्जावर किती सबसिडी मिळते?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "bn",
+    "prompt": "পশুপালন ব্যবসার জন্য সরকারি ভর্তুকির নিয়ম কী?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "od",
+    "prompt": "ପଶୁସମ୍ପଦ ବ୍ୟବସାୟ ପାଇଁ ସରକାର କେତେ ସହାୟତା ପ୍ରଦାନ କରନ୍ତି?"
+  },
+  {
+    "schemeId": "national_livestock_mission_nlm",
+    "lang": "as",
+    "prompt": "পশুপালন ব্যৱসায় আৰম্ভ কৰিবলৈ কিমান ৰাজসাহায্য পোৱা যায়?"
+  },
+  {
+    "schemeId": "pm_matsya_sampada_pmmsy",
+    "lang": "ur",
+    "prompt": "ماہی گیروں کے لیے سرکاری مراعات اور اسکیمیں کیا ہیں؟"
+  },
+  {
+    "schemeId": "death_certificate_registration",
+    "lang": "ta",
+    "prompt": "நகராட்சியில் இறப்புச் சான்றிதழுக்கு ஆன்லைனில் விண்ணப்பிப்பது எப்படி?"
+  },
+  {
+    "schemeId": "death_certificate_registration",
+    "lang": "ml",
+    "prompt": "കുടുംബാംഗത്തിന്റെ മരണശേഷം മരണ സർട്ടിഫിക്കറ്റിനായി എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "death_certificate_registration",
+    "lang": "mr",
+    "prompt": "मृत्यूची नोंद करून अधिकृत मृत्यू प्रमाणपत्र मिळवण्यासाठी काय करावे?"
+  },
+  {
+    "schemeId": "death_certificate_registration",
+    "lang": "mr",
+    "prompt": "महानगरपालिकेत मृत्यू दाखल्यासाठी अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "death_certificate_registration",
+    "lang": "gu",
+    "prompt": "મરણના દાખલા માટે કયા કાગળો જોઈશે?"
+  },
+  {
+    "schemeId": "legal_heir_family_certificate",
+    "lang": "ta",
+    "prompt": "தந்தை மறைவுக்குப் பின் வாரிசு சான்றிதழ் பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "legal_heir_family_certificate",
+    "lang": "ta",
+    "prompt": "வாரிசு சான்றிதழ் பெற தேவையான ஆவணங்கள் என்ன?"
+  },
+  {
+    "schemeId": "legal_heir_family_certificate",
+    "lang": "mr",
+    "prompt": "वारस दाखल्यासाठी कोणती कागदपत्रे लागतात?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "ta",
+    "prompt": "முதியோர்களுக்கான இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியம் பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "ta",
+    "prompt": "60 வயதுக்கு மேற்பட்ட முதியவர்களுக்கான மாதாந்திர ஓய்வூதியம் பெற எப்படி விண்ணப்பிப்பது?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "ta",
+    "prompt": "முதியோர் ஓய்வூதிய திட்டத்தில் பயன்பெற தகுதிகள் என்ன?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "ml",
+    "prompt": "60 വയസ്സ് കഴിഞ്ഞവർക്ക് പ്രതിമാസ വയോജന പെൻഷനായി എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "mr",
+    "prompt": "ज्येष्ठ नागरिकांसाठी इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेन्शनसाठी अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "mr",
+    "prompt": "६० वर्षांवरील वयोवृद्ध नागरिकांसाठी मासिक वृद्ध पेन्शन कशी मिळते?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "mr",
+    "prompt": "वृद्धावस्था निवृत्तीवेतन योजनेचे नियम व अटी काय आहेत?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "gu",
+    "prompt": "60 વર્ષથી વધુ ઉંમરના વૃદ્ધો માટે માસિક પેન્શન કેવી રીતે મેળવવું?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "od",
+    "prompt": "୬୦ ବର୍ଷରୁ ଊର୍ଦ୍ଧ୍ୱ ଗରିବ ବୃଦ୍ଧବୃଦ୍ଧାଙ୍କୁ ମାସିକ ପେନସନ କିପରି ମିଳିବ?"
+  },
+  {
+    "schemeId": "nsap_ignoaps_old_age_pension",
+    "lang": "ur",
+    "prompt": "60 سال سے زائد عمر کے غریب بزرگوں کو ماہانہ پنشن کیسے ملے گی؟"
+  },
+  {
+    "schemeId": "nsap_ignwps_widow_pension",
+    "lang": "ta",
+    "prompt": "விதவை ஓய்வூதிய திட்டத்திற்கு விண்ணப்பிக்க என்ன செய்ய வேண்டும்?"
+  },
+  {
+    "schemeId": "nsap_ignwps_widow_pension",
+    "lang": "ml",
+    "prompt": "വിധവാ പെൻഷനായി പഞ്ചായത്തിൽ എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "nsap_ignwps_widow_pension",
+    "lang": "mr",
+    "prompt": "पतीच्या निधनानंतर महिलांसाठी विधवा पेन्शन कशी मिळवायची?"
+  },
+  {
+    "schemeId": "nsap_ignwps_widow_pension",
+    "lang": "mr",
+    "prompt": "इंदिरा गांधी राष्ट्रीय विधवा निवृत्तीवेतन योजनेचा अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "nsap_ignwps_widow_pension",
+    "lang": "mr",
+    "prompt": "विधवा पेन्शनसाठी कोणती कागदपत्रे लागतात?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "ta",
+    "prompt": "மாற்றுத்திறனாளி மாதாந்திர உதவித்தொகை பெற எப்படி விண்ணப்பிப்பது?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "ta",
+    "prompt": "மாற்றுத்திறனாளி ஓய்வூதியத்திற்கு மருத்துவ சான்றிதழ் சதவீத வரம்பு என்ன?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "kn",
+    "prompt": "ಅಂಗವಿಕಲರಿಗೆ ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಅಂಗವಿಕಲ ವೇತನ ಪಡೆಯುವುದು ಹೇಗೆ?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "kn",
+    "prompt": "ವಿಕಲಚೇತನರ ಮಾಸಿಕ ಪಿಂಚಣಿಗಾಗಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಹೇಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಬೇಕು?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "kn",
+    "prompt": "ಅಂಗವಿಕಲ ವೇತನಕ್ಕೆ ಯಾವ ಪ್ರಮಾಣಪತ್ರ ಬೇಕು?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "ml",
+    "prompt": "വികലാംഗ പെൻഷനായി അപേക്ഷിക്കാൻ എന്തൊക്കെ രേഖകൾ വേണം?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "mr",
+    "prompt": "अपंग व्यक्तींसाठी शासकीय मासिक पेन्शनसाठी अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "nsap_igndps_disability_pension",
+    "lang": "as",
+    "prompt": "দিব্যাংগ পেঞ্চন পাবলৈ কি প্ৰমাণপত্ৰ লাগিব?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "te",
+    "prompt": "ఎన్ఎఫ్బీఎస్ పథకం కింద ఒకేసారి ఆర్థిక సహాయం పొందడానికి ఎలా దరఖాస్తు చేసుకోవాలి?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "te",
+    "prompt": "కుటుంబ పోషకుడు చనిపోతే పేద కుటుంబానికి ఇచ్చే ప్రభుత్వ సహాయం ఏమిటి?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ta",
+    "prompt": "குடும்பத்தை காப்பாற்றும் நபர் இறந்தால் கிடைக்கும் அரசு நிதி உதவி பெற எப்படி விண்ணப்பிப்பது?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ta",
+    "prompt": "என்எஃப்பிஎஸ் திட்டத்தில் நிதியுதவி பெற என்ன ஆவணங்கள் தேவை?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "kn",
+    "prompt": "ಎನ್‌ಎಫ್‌ಬಿಎಸ್ ಯೋಜನೆಯಡಿ ಆರ್ಥಿಕ ಸಹಾಯ ಪಡೆಯಲು ಹೇಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಬೇಕು?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "kn",
+    "prompt": "ಕುಟುಂಬದ ಆಧಾರಸ್ತಂಭ ತೀರಿಕೊಂಡಾಗ ಸರ್ಕಾರ ನೀಡುವ ಒಂದು ಬಾರಿಯ ಪರಿಹಾರವೇನು?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ml",
+    "prompt": "എൻഎഫ്ബിഎസ് സ്കീം വഴി ഒറ്റത്തവണ സഹായം ലഭിക്കാൻ എന്താണ് ചെയ്യേണ്ടത്?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ml",
+    "prompt": "കുടുംബത്തിന്റെ വരുമാനദായകൻ മരണപ്പെട്ടാൽ ലഭിക്കുന്ന സർക്കാർ സഹായം എന്താണ്?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "mr",
+    "prompt": "एनएफबीएस योजनेतून एकरकमी आर्थिक मदत मिळवण्यासाठी अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "mr",
+    "prompt": "कुटुंब प्रमुखाच्या मृत्यूनंतर मिळणाऱ्या शासकीय आर्थिक मदतीची पद्धत काय आहे?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "bn",
+    "prompt": "এনএফবিএস প্রকল্পে এককালীন সরকারি আর্থিক সহায়তা পাওয়ার নিয়ম কী?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "bn",
+    "prompt": "পরিবারের প্রধানের মৃত্যুর পর বিপিএল পরিবার কীভাবে সরকারি সাহায্য পাবে?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "gu",
+    "prompt": "એનએફબીએસ યોજના હેઠળ એકસાથે નાણાકીય સહાય માટે કેવી રીતે અરજી કરવી?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "pa",
+    "prompt": "ਐਨਐਫਬੀਐਸ ਸਕੀਮ ਅਧੀਨ ਇਕਮੁਸ਼ਤ ਵਿੱਤੀ ਸਹਾਇਤਾ ਲਈ ਕਿਵੇਂ ਅਪਲਾਈ ਕਰੀਏ?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "pa",
+    "prompt": "ਪਰਿਵਾਰ ਦੇ ਮੁਖੀ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਗਰੀਬ ਪਰਿਵਾਰ ਲਈ ਸਰਕਾਰੀ ਸਹਾਇਤਾ ਕੀ ਹੈ?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "od",
+    "prompt": "ଏନଏଫବିଏସ ଯୋଜନାରେ ଏକକାଳୀନ ଆର୍ଥିକ ସହାୟତା ପାଇଁ କିପରି ଆବେଦନ କରିବେ?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "od",
+    "prompt": "ପରିବାର ମୁଖ୍ୟଙ୍କ ମୃତ୍ୟୁରେ ବିପିଏଲ ପରିବାରକୁ ମିଳୁଥିବା ସରକାରୀ ସହାୟତା କଣ?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "as",
+    "prompt": "এনএফবিএছ আঁচনিৰ অধীনত এককালীন আৰ্থিক সাহায্য কেনেকৈ আবেদন কৰিব?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "as",
+    "prompt": "পৰিয়ালৰ মূল ব্যক্তিৰ মৃত্যুত চৰকাৰী সাহায্য পাবলৈ কি নথিপত্ৰ লাগে?"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ur",
+    "prompt": "این ایف بی ایس اسکیم کے تحت یکمشت مالی امداد کے لیے کیسے درخواست دیں؟"
+  },
+  {
+    "schemeId": "nsap_nfbs_family_benefit",
+    "lang": "ur",
+    "prompt": "کمانے والے فرد کی وفات پر غریب خاندان کو ملنے والی سرکاری امداد کیا ہے؟"
+  },
+  {
+    "schemeId": "nsap_annapurna_food_security",
+    "lang": "ta",
+    "prompt": "ஓய்வூதியம் பெறாத ஆதரவற்ற முதியவர்கள் இலவச ரேஷன் உணவு தானியம் பெற என்ன செய்ய வேண்டும்?"
+  },
+  {
+    "schemeId": "nsap_annapurna_food_security",
+    "lang": "ml",
+    "prompt": "പെൻഷൻ ലഭിക്കാത്ത വയോധികർക്ക് സൗജന്യ റേഷൻ ധാന്യം ലഭിക്കാൻ എന്താണ് ചെയ്യേണ്ടത്?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "hi",
+    "prompt": "चक्रवात से घर और सामान का भारी नुकसान हुआ, आपदा राहत कोष से मुआवजा कैसे लें?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "ta",
+    "prompt": "புயலால் உடைமைகள் சேதமடைந்தது, பேரிடர் நிவாரண உதவித்தொகை பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "ta",
+    "prompt": "இயற்கை பேரிடர் பாதிப்புக்கு அரசு வழங்கும் உடனடி நிவாரண உதவி என்ன?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "kn",
+    "prompt": "ಚಂಡಮಾರುತದಿಂದ ಮನೆ-ಮಠ ಕಳೆದುಕೊಂಡಿದ್ದೇವೆ, ವಿಪತ್ತು ಪರಿಹಾರ ನಿಧಿಯಿಂದ ಹಣ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "kn",
+    "prompt": "ನೈಸರ್ಗಿಕ ವಿಕೋಪ ಪರಿಹಾರ ಪಡೆಯಲು ತಹಶೀಲ್ದಾರ್ ಕಚೇರಿಗೆ ಹೇಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಬೇಕು?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "ml",
+    "prompt": "ദുരന്ത ബാധിതർക്ക് സർക്കാർ നൽകുന്ന അടിയന്തര സാമ്പത്തിക സഹായം എന്താണ്?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "mr",
+    "prompt": "नैसर्गिक आपत्ती मदतीसाठी महसूल विभागाकडे अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "bn",
+    "prompt": "প্রাকৃতিক দুর্যোগে ক্ষতিগ্রস্তদের সরকারি সাহায্য পাওয়ার নিয়ম কী?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "gu",
+    "prompt": "કુદરતી હોનારતમાં સરકાર તરફથી મળતી તાત્કાલિક સહાય શું છે?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "pa",
+    "prompt": "ਤੂਫ਼ਾਨ ਕਾਰਨ ਸਾਰਾ ਸਮਾਨ ਤਬਾਹ ਹੋ ਗਿਆ, ਆਫ਼ਤ ਰਾਹਤ ਫੰਡ ਵਿੱਚੋਂ ਮਦਦ ਕਿਵੇਂ ਮਿਲੇਗੀ?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "pa",
+    "prompt": "ਕੁਦਰਤੀ ਆਫ਼ਤ ਦੇ ਨੁਕਸਾਨ ਲਈ ਸਰਕਾਰੀ ਮੁਆਵਜ਼ਾ ਕਿਵੇਂ ਮਿਲੇਗਾ?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "od",
+    "prompt": "ପ୍ରାକୃତିକ ବିପର୍ଯ୍ୟୟରେ ସରକାରୀ ସହାୟତା ପାଇବା ପାଇଁ କଣ କରିବାକୁ ହେବ?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "as",
+    "prompt": "ঘূৰ্ণীবতাহত সৰ্বস্ব হেৰুৱালোঁ, দুৰ্যোগ সাহায্য পুঁজিৰ পৰা ক্ষতিপূৰণ কেনেকৈ ল’ব?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "as",
+    "prompt": "প্ৰাকৃতিক দুৰ্যোগৰ ক্ষতিপূৰণৰ বাবে চৰকাৰী অনুদান কেনেকৈ আবেদন কৰিব?"
+  },
+  {
+    "schemeId": "sdrf_disaster_relief_assistance",
+    "lang": "ur",
+    "prompt": "قدرتی آفت میں مالی مدد حاصل کرنے کا طریقہ کیا ہے؟"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "te",
+    "prompt": "జాతీయ విపత్తుగా ప్రకటించినప్పుడు కేంద్ర ప్రభుత్వం ఇచ్చే సహాయం ఏమిటి?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "ta",
+    "prompt": "தேசிய பேரிடராக அறிவிக்கப்பட்டால் மத்திய அரசு வழங்கும் கூடுதல் நிவாரணம் என்ன?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "ta",
+    "prompt": "மத்திய பேரிடர் நிவாரண நிதி எவ்வாறு பாதிக்கப்பட்ட மக்களுக்கு கிடைக்கிறது?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "kn",
+    "prompt": "ಬೃಹತ್ ನೈಸರ್ಗಿಕ ವಿಕೋಪದ ಸಂದರ್ಭದಲ್ಲಿ ಕೇಂದ್ರದಿಂದ ಪರಿಹಾರ ಹೇಗೆ ಬರುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "bn",
+    "prompt": "কেন্দ্রীয় বিপর্যয় ত্রাণ তহবিলের সহায়তা কীভাবে পাওয়া যায়?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "gu",
+    "prompt": "રાષ્ટ્રીય હોનારત જાહેર થાય ત્યારે કેન્દ્ર સરકાર તરફથી શું સહાય મળે છે?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "pa",
+    "prompt": "ਕੇਂਦਰੀ ਆਫ਼ਤ ਫੰਡ ਵਿੱਚੋਂ ਪ੍ਰਭਾਵਿਤ ਲੋਕਾਂ ਨੂੰ ਮੁਆਵਜ਼ਾ ਕਿਵੇਂ ਮਿਲਦਾ ਹੈ?"
+  },
+  {
+    "schemeId": "ndrf_disaster_relief_supplemental",
+    "lang": "ur",
+    "prompt": "قومی آفت قرار دیے جانے پر مرکزی حکومت سے اضافی معاوضہ کیسے حاصل ہوتا ہے؟"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "en",
+    "prompt": "House collapsed during flood disaster, how to apply for disaster pucca house reconstruction grant?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "hi",
+    "prompt": "बारिश में पक्का घर गिर गया, मकान बनाने का सरकारी मुआवजा कैसे मिलेगा?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "te",
+    "prompt": "వరదల్లో ఇల్లు దెబ్బతింది, కూలిపోయిన ఇంటి పునర్నిర్మాణం కోసం దరఖాస్తు చేసుకోవడం ఎలా?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "te",
+    "prompt": "విపత్తులో ఇల్లు నష్టపోయిన వారికి ప్రభుత్వం ఇచ్చే పక్కా ఇల్లు పథకం ఏమిటి?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "ta",
+    "prompt": "வெள்ளத்தால் சேதமடைந்த வீட்டை மீண்டும் கட்ட பேரிடர் வீடு புனரமைப்பு நிதி எப்படி கிடைக்கும்?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "ta",
+    "prompt": "புயல் காற்றில் இடிந்த வீட்டை மீண்டும் கட்ட அரசு நிதி உதவி தருமா?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "kn",
+    "prompt": "ವಿಪತ್ತಿನಲ್ಲಿ ಮನೆ ಕಳೆದುಕೊಂಡವರಿಗೆ ಸರ್ಕಾರ ಹೊಸ ಮನೆ ನಿರ್ಮಾಣಕ್ಕೆ ಸಹಾಯ ನೀಡುತ್ತದೆಯೇ?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "ml",
+    "prompt": "പ്രകൃതിക്ഷോഭത്തിൽ വീട് തകർന്നവർക്ക് സർക്കാർ ധനസഹായം ലഭിക്കുമോ?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "mr",
+    "prompt": "पुरात घर वाहून गेले किंवा पडले, घर बांधण्यासाठी आपत्ती निवारण अनुदान कसे मिळेल?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "mr",
+    "prompt": "नैसर्गिक आपत्तीत पडलेल्या घरासाठी शासनाकडून आर्थिक मदत कशी मिळते?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "bn",
+    "prompt": "বন্যায় বাড়ি ক্ষতিগ্রস্ত হয়েছে, দুর্যোগে ধ্বংস হওয়া বাড়ি তৈরির ক্ষতিপূরণ কীভাবে পাব?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "bn",
+    "prompt": "ঝড়ে বাড়ি ভেঙে গেলে সরকার থেকে নতুন বাড়ি তৈরির জন্য কী সাহায্য মেলে?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "gu",
+    "prompt": "પૂરમાં ઘર પડી ગયું છે, મકાન ફરીથી બનાવવા માટે આપત્તિ વળતર કેવી રીતે મળે?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "gu",
+    "prompt": "કુદરતી આફતમાં તૂટી ગયેલ ઘર ફરી બાંધવા સરકાર કેટલી મદદ કરે છે?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "pa",
+    "prompt": "ਹੜ੍ਹਾਂ ਵਿੱਚ ਮਕਾਨ ਢਹਿ ਗਿਆ, ਆਫ਼ਤ ਅਧੀਨ ਮਕਾਨ ਮੁੜ ਬਣਾਉਣ ਲਈ ਗ੍ਰਾਂਟ ਕਿਵੇਂ ਮਿਲੇਗੀ?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "pa",
+    "prompt": "ਮੀਂਹ ਅਤੇ ਤੂਫ਼ਾਨ ਵਿੱਚ ਟੁੱਟੇ ਮਕਾਨ ਲਈ ਸਰਕਾਰੀ ਮੁਆਵਜ਼ਾ ਕਿਵੇਂ ਮਿਲਦਾ ਹੈ?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "od",
+    "prompt": "ବାତ୍ୟା କ୍ଷତିଗ୍ରସ୍ତ ଘର ତିଆରି ପାଇଁ ସରକାର କଣ ସାହାଯ୍ୟ ପ୍ରଦାନ କରନ୍ତି?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "as",
+    "prompt": "বানপানীত ধ্বংস হোৱা ঘৰটো পুনৰ সাজিবলৈ দুৰ্যোগ সাহায্য পুঁজি কেনেকৈ আবেদন কৰিব?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "as",
+    "prompt": "ধুমুহাত ভাঙি যোৱা ঘৰৰ বাবে চৰকাৰে কি ক্ষতিপূৰণ দিয়ে?"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "ur",
+    "prompt": "سیلاب سے مکان تباہ ہو گیا، قدرتی آفت کے تحت مکان کی تعمیر نو کا معاوضہ کیسے ملے گا؟"
+  },
+  {
+    "schemeId": "disaster_house_reconstruction",
+    "lang": "ur",
+    "prompt": "تباہ شدہ مکان کی تعمیر کے لیے حکومت سے مالی مدد حاصل کرنے کا طریقہ کیا ہے؟"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "en",
+    "prompt": "I live in a kutcha house in rural village and need PMAY-Gramin housing grant of 1.2 lakh."
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "en",
+    "prompt": "What is the eligibility and SECC list verification process for PM Awas Yojana Gramin?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "hi",
+    "prompt": "पीएम आवास योजना ग्रामीण की लाभार्थी सूची में नाम कैसे देखें?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "te",
+    "prompt": "గ్రామీణ ప్రాంతంలో పూరి గుడిసెలో ఉంటున్నాము, పక్కా ఇంటి నిర్మాణానికి ప్రభుత్వ సబ్సిడీ ఎలా వస్తుంది?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "ta",
+    "prompt": "பிஎம் ஆவாஸ் கிராமின் திட்டத்தில் தகுதி பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "kn",
+    "prompt": "ಗ್ರಾಮೀಣ ಭಾಗದಲ್ಲಿ ಕಚ್ಚಾ ಮನೆಯಲ್ಲಿ ವಾಸಿಸುವವರಿಗೆ ಸರ್ಕಾರದ ವಸತಿ ಯೋಜನೆ ಸಬ್ಸಿಡಿ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "ml",
+    "prompt": "ഗ്രാമപ്രദേശത്തെ പാവപ്പെട്ടവർക്ക് വീട് നിർമ്മിക്കാൻ 1.20 ലക്ഷം സർക്കാർ സഹായം എങ്ങനെ ലഭിക്കും?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "ml",
+    "prompt": "പിഎം ആവാസ് യോജന ഗ്രാമീൺ അർഹതാ മാനദണ്ഡങ്ങൾ എന്തൊക്കെയാണ്?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "mr",
+    "prompt": "कच्च्या घरात राहणाऱ्या कुटुंबाला पक्के घर बांधण्यासाठी शासनाचे १.२० लाख अनुदान कसे मिळते?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "bn",
+    "prompt": "মাটির বাড়িতে বসবাসকারী দরিদ্র পরিবার কীভাবে ১.২০ লক্ষ টাকার সরকারি গৃহনির্মাণ অনুদান পাবে?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "gu",
+    "prompt": "કાચા મકાનમાં રહેતા ગરીબ પરિવારોને પાકા મકાન માટે 1.20 લાખની સહાય કેવી રીતે મળે?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "gu",
+    "prompt": "પીએમ આવાસ યોજના ગ્રામીણની યાદીમાં નામ કેવી રીતે ચકાસવું?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "pa",
+    "prompt": "ਕੱਚੇ ਘਰ ਵਿੱਚ ਰਹਿਣ ਵਾਲੇ ਪਰਿਵਾਰ ਨੂੰ ਪੱਕੇ ਮਕਾਨ ਲਈ ਸਰਕਾਰੀ ਗ੍ਰਾਂਟ ਕਿਵੇਂ ਮਿਲੇਗੀ?"
+  },
+  {
+    "schemeId": "pmay_g_rural_housing",
+    "lang": "ur",
+    "prompt": "پی ایم آواس یوجنا دیہی لسٹ میں نام کیسے شامل کروائیں؟"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "hi",
+    "prompt": "शहरी क्षेत्र में घर खरीदने के लिए पीएम आवास योजना में कितना लाभ मिलता है?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "te",
+    "prompt": "పట్టణంలో పక్కా ఇల్లు లేదా హోమ్ లోన్ వడ్డీ సబ్సిడీ కోసం పీఎంఏవై అర్బన్ 2.0 కి ఎలా దరఖాస్తు చేయాలి?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "te",
+    "prompt": "పీఎం అర్బన్ హౌసింగ్ స్కీమ్ లో ఎవరికి అర్హత ఉంటుంది?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "ta",
+    "prompt": "நகரங்களில் சொந்த வீடு கட்ட அரசு தரும் மானியம் என்ன?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "kn",
+    "prompt": "ನಗರ ಪ್ರದೇಶದಲ್ಲಿ ಮನೆ ಕಟ್ಟಲು ಸರ್ಕಾರದ ಸಹಾಯಧನ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "ml",
+    "prompt": "നഗരവാസികൾക്ക് പുതിയ വീട് വെക്കാൻ സർക്കാർ സബ്സിഡി ലഭിക്കുമോ?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "mr",
+    "prompt": "शहरात घर घेण्यासाठी सरकारी अनुदानाचा लाभ कसा घ्यावा?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "bn",
+    "prompt": "শহরে নিজস্ব বাড়ি তৈরির জন্য সরকারি সাহায্য পাওয়ার নিয়ম কী?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "gu",
+    "prompt": "શહેરી વિસ્તારમાં મકાન બનાવવા માટે સરકારી સહાય કેવી રીતે મેળવવી?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "pa",
+    "prompt": "ਸ਼ਹਿਰਾਂ ਵਿੱਚ ਮਕਾਨ ਬਣਾਉਣ ਲਈ ਸਰਕਾਰੀ ਗ੍ਰਾਂਟ ਦਾ ਕੀ ਤਰੀਕਾ ਹੈ?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "od",
+    "prompt": "ସହରରେ ଘର ତିଆରି ପାଇଁ ସରକାରୀ ଅନୁଦାନର ନିୟମ କଣ?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "as",
+    "prompt": "চহৰত ঘৰ সাজিবলৈ চৰকাৰী অনুদান কেনেকৈ পোৱা যায়?"
+  },
+  {
+    "schemeId": "pmay_u_urban_housing_2",
+    "lang": "ur",
+    "prompt": "شہری علاقوں میں مکان تعمیر کے لیے سرکاری مراعات کیا ہیں؟"
+  },
+  {
+    "schemeId": "pm_surya_ghar_muft_bijli",
+    "lang": "mr",
+    "prompt": "छतावरील सोलर पॅनेलसाठी थेट बँक खात्यात सरकारी अनुदान कसे मिळते?"
+  },
+  {
+    "schemeId": "pm_surya_ghar_muft_bijli",
+    "lang": "pa",
+    "prompt": "300 ਯੂਨਿਟ ਮੁਫ਼ਤ ਬਿਜਲੀ ਲਈ ਛੱਤ ਵਾਲੀ ਸੋਲਰ ਸਕੀਮ ਦੀ ਸਬਸਿਡੀ ਕਿਵੇਂ ਲਈਏ?"
+  },
+  {
+    "schemeId": "pm_surya_ghar_muft_bijli",
+    "lang": "ur",
+    "prompt": "300 یونٹ مفت بجلی کے لیے روف ٹاپ سولر سبسڈی کیسے حاصل کریں؟"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "ta",
+    "prompt": "முத்ரா திட்டத்தில் சிசு, கிஷோர் கடன் பெற விண்ணப்பிப்பது எப்படி?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "ta",
+    "prompt": "வங்கி மூலம் 10 லட்சம் வரை முத்ரா தொழில் கடன் பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "kn",
+    "prompt": "ಮುದ್ರಾ ಬಿಸಿನೆಸ್ ಲೋನ್ ಪಡೆಯಲು ಯಾವ ದಾಖಲೆಗಳು ಬೇಕು?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "mr",
+    "prompt": "मुद्रा योजनेतून शिशु, किशोर आणि तरुण कर्ज मिळवण्यासाठी बँकेत अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "mr",
+    "prompt": "१० लाख रुपयांपर्यंतचे मुद्रा व्यावसायिक कर्ज कसे मिळते?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "bn",
+    "prompt": "১০ লক্ষ টাকা পর্যন্ত মুদ্রা বিজনেস লোন পাওয়ার নিয়ম কী?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "pa",
+    "prompt": "10 ਲੱਖ ਰੁਪਏ ਤੱਕ ਦਾ ਮੁਦਰਾ ਬਿਜ਼ਨਸ ਲੋਨ ਲੈਣ ਦਾ ਕੀ ਤਰੀਕਾ ਹੈ?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "as",
+    "prompt": "১০ লাখ টকালৈকে মুদ্ৰা বিজনেচ লোন পাবলৈ কি নথিপত্ৰ লাগে?"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "ur",
+    "prompt": "مدرا اسکیم کے تحت ششو یا کشور بزنس لون کے لیے بینک میں کیسے درخواست دیں؟"
+  },
+  {
+    "schemeId": "pm_mudra_yojana",
+    "lang": "ur",
+    "prompt": "10 لاکھ روپے تک کا مدرا کاروباری قرض حاصل کرنے کی شرائط کیا ہیں؟"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "hi",
+    "prompt": "उद्योग विस्तार के लिए बिना संपत्ति गिरवी रखे बैंक ऋण पाने की योजना क्या है?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "kn",
+    "prompt": "ಉದ್ಯಮ ವಿಸ್ತರಣೆಗೆ ಆಸ್ತಿ ಅಡಮಾನವಿಲ್ಲದೆ ಸಾಲ ಪಡೆಯುವ ನಿಯಮಗಳೇನು?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "ml",
+    "prompt": "ചെറുകിട വ്യവസായങ്ങൾക്ക് കൊളാറ്ററൽ ഇല്ലാതെ വായ്പ കിട്ടാൻ എന്താണ് ചെയ്യേണ്ടത്?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "mr",
+    "prompt": "उद्योग वाढवण्यासाठी विनातारण बँक कर्ज मिळवण्याची प्रक्रिया काय आहे?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "gu",
+    "prompt": "મોટા વેપાર માટે કોઈ મિલકત ગિરવે મૂક્યા વગર લોન કેવી રીતે લેવી?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "pa",
+    "prompt": "ਕਾਰੋਬਾਰ ਵਧਾਉਣ ਲਈ ਬਿਨਾਂ ਗਿਰਵੀ ਰੱਖੇ ਬੈਂਕ ਲੋਨ ਲੈਣ ਦਾ ਕੀ ਤਰੀਕਾ ਹੈ?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "od",
+    "prompt": "ଉଦ୍ୟୋଗ ବୃଦ୍ଧି ପାଇଁ ବିନା ବନ୍ଧକରେ ବ୍ୟାଙ୍କ ଋଣ ପାଇବାର ନିୟମ କଣ?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "as",
+    "prompt": "ব্যৱসায় বৃদ্ধিৰ বাবে বন্ধকী নোহোৱাকৈ বেংক ঋণ কেনেকৈ ল’ব পাৰি?"
+  },
+  {
+    "schemeId": "cgtmse_credit_guarantee",
+    "lang": "ur",
+    "prompt": "کاروبار کو وسعت دینے کے لیے بغیر کوئی چیز رہن رکھے بینک قرض کیسے لیں؟"
+  },
+  {
+    "schemeId": "pm_vishwakarma_scheme",
+    "lang": "ta",
+    "prompt": "பிஎம் விஸ்வகர்மா திட்டத்தில் விண்ணப்பிக்க என்ன நடைமுறை?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "en",
+    "prompt": "What is the project cost limit and subsidy percentage under Prime Minister Employment Generation Programme?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "ta",
+    "prompt": "பிரதமரின் வேலைவாய்ப்பு உருவாக்கும் திட்டத்தில் விண்ணப்பிப்பது எப்படி?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "kn",
+    "prompt": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ಯೋಜನೆಯಡಿ ಸಿಗುವ ಸೌಲಭ್ಯಗಳೇನು?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "ml",
+    "prompt": "പ്രധാനമന്ത്രി തൊഴിൽദായക പദ്ധതിയുടെ ആനുകൂല്യങ്ങൾ എന്തൊക്കെയാണ്?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "mr",
+    "prompt": "पंतप्रधान रोजगार निर्मिती कार्यक्रमासाठी अर्ज कसा करावा?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "bn",
+    "prompt": "প্রধানমন্ত্রী কর্মসংস্থান সৃষ্টি কর্মসূচিতে আবেদনের নিয়ম কী?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "gu",
+    "prompt": "પ્રધાનમંત્રી રોજગાર સર્જન કાર્યક્રમ માટે ઓનલાઈન અરજી કેવી રીતે કરવી?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "pa",
+    "prompt": "ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਰੋਜ਼ਗਾਰ ਉਤਪਤੀ ਪ੍ਰੋਗਰਾਮ ਵਿੱਚ ਅਪਲਾਈ ਕਰਨ ਦਾ ਕੀ ਤਰੀਕਾ ਹੈ?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "od",
+    "prompt": "ପ୍ରଧାନମନ୍ତ୍ରୀ ରୋଜଗାର ସୃଷ୍ଟି କାର୍ଯ୍ୟକ୍ରମରେ ଆବେଦନ ପ୍ରକ୍ରିୟା କଣ?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "as",
+    "prompt": "প্ৰধানমন্ত্ৰী নিয়োগ সৃষ্টি কাৰ্যসূচীত আবেদন কৰিবলৈ কি কৰিব লাগে?"
+  },
+  {
+    "schemeId": "pmegp_credit_linked_subsidy",
+    "lang": "ur",
+    "prompt": "وزیراعظم روزگار جنریشن پروگرام میں آن لائن درخواست کا طریقہ کیا ہے؟"
+  },
+  {
+    "schemeId": "aspire_rural_innovation",
+    "lang": "kn",
+    "prompt": "ಕೃಷಿ ಗ್ರಾಮೀಣ ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳಿಗೆ ಇನ್‌ಕ್ಯುಬೇಟರ್ ಬೆಂಬಲ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "aspire_rural_innovation",
+    "lang": "ml",
+    "prompt": "അഗ്രോ-റൂറൽ സ്റ്റാർട്ടപ്പുകൾക്ക് ഇൻകുബേറ്റർ ഗ്രാന്റ് എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "aspire_rural_innovation",
+    "lang": "as",
+    "prompt": "কৃষি-ভিত্তিক গ্ৰামীণ ষ্টাৰ্টআপৰ বাবে চৰকাৰী অনুদান কেনেকৈ আবেদন কৰিব?"
+  },
+  {
+    "schemeId": "aspire_rural_innovation",
+    "lang": "ur",
+    "prompt": "ایگرو رورل اسٹارٹ اپ کے لیے سرکاری گرانٹ حاصل کرنے کا کیا طریقہ ہے؟"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "ta",
+    "prompt": "பாரம்பரிய தொழில்கள் மறுமலர்ச்சி திட்டத்தின் பலன்கள் என்ன?"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "kn",
+    "prompt": "ಸಾಂಪ್ರದಾಯಿಕ ಕೈಗಾರಿಕೆಗಳ ಪುನರುಜ್ಜೀವನ ಯೋಜನೆ ಏನು?"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "ml",
+    "prompt": "പരമ്പരാഗത തൊഴിൽ ക്ലസ്റ്റർ രൂപീകരിക്കാൻ എന്തുചെയ്യണം?"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "od",
+    "prompt": "କମନ ଫାସିଲିଟି ସେଣ୍ଟର ସ୍ଥାପନ ପାଇଁ ୫ କୋଟି ପର୍ଯ୍ୟନ୍ତ ସହାୟତା କିପରି ମିଳିବ?"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "as",
+    "prompt": "কমন ফেচিলিটি চেণ্টাৰ স্থাপনৰ বাবে ৫ কোটি টকালৈকে অনুদান কেনেকৈ পাব?"
+  },
+  {
+    "schemeId": "sfurti_traditional_clusters",
+    "lang": "as",
+    "prompt": "পৰম্পৰাগত উদ্যোগ পুনৰুজ্জীৱন আঁচনিৰ নিয়মসমূহ কি কি?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "te",
+    "prompt": "జీరో డిఫెక్ట్ జీరో ఎఫెక్ట్ జెడ్ సర్టిఫికెట్ తో బ్యాంక్ లోన్ వడ్డీ రాయితీ ఎలా లభిస్తుంది?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "ta",
+    "prompt": "ஜீரோ டிஃபெக்ட் ஜீரோ எஃபெக்ட் தரச் சான்றிதழ் மூலம் வங்கிக் கடன் வட்டி சலுகை பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "kn",
+    "prompt": "ಝೆಡ್ ಸರ್ಟಿಫಿಕೇಟ್‌ನಿಂದ ಬ್ಯಾಂಕ್ ಸಾಲದ ಬಡ್ಡಿಯಲ್ಲಿ ರಿಯಾಯಿತಿ ಪಡೆಯುವುದು ಹೇಗೆ?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "ml",
+    "prompt": "എംഎസ്എംഇ ക്രെഡിറ്റ് റേറ്റിംഗിനും സെഡ് സർട്ടിഫിക്കേഷനും 80% വരെ സബ്സിഡി എങ്ങനെ ലഭിക്കും?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "ml",
+    "prompt": "സീറോ ഡിഫെക്റ്റ് സീറോ ഇഫക്റ്റ് സർട്ടിഫിക്കറ്റ് വഴി ബാങ്ക് പലിശ ഇളവ് എങ്ങനെ കിട്ടും?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "ml",
+    "prompt": "എൻഎസ്ഐസി വഴി മൈക്രോ എന്റർപ്രൈസ് റേറ്റിംഗ് സബ്സിഡി എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "mr",
+    "prompt": "झिरो डिफेक्ट झिरो इफेक्ट झेड सर्टिफिकेशनमुळे बँक कर्जावर व्याज सवलत कशी मिळते?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "bn",
+    "prompt": "জিরো ডিফেক্ট জিরো এফেক্ট মানের সার্টিফিকেটে ব্যাংক ঋণে সুদের ছাড় কীভাবে পাওয়া যায়?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "gu",
+    "prompt": "ઝીરો ડિફેક્ટ ઝીરો ઇફેક્ટ સર્ટિફિકેટથી બેંક લોન પર વ્યાજમાં છૂટછાટ કેવી રીતે મળે?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "pa",
+    "prompt": "ਜ਼ੀਰੋ ਡਿਫੈਕਟ ਜ਼ੀਰੋ ਇਫੈਕਟ ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਬੈਂਕ ਲੋਨ ਦੇ ਵਿਆਜ ਵਿੱਚ ਛੋਟ ਕਿਵੇਂ ਮਿਲਦੀ ਹੈ?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "od",
+    "prompt": "ଜିରୋ ଡିଫେକ୍ଟ ଜିରୋ ଇଫେକ୍ଟ ପ୍ରମାଣପତ୍ର ଦ୍ୱାରା ବ୍ୟାଙ୍କ ଋଣରେ ସୁଧ ରିହାତି କିପରି ମିଳିବ?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "as",
+    "prompt": "জিৰ’ ডিফেক্ট জিৰ’ ইফেক্ট মানৰ প্ৰমাণপত্ৰৰ জৰিয়তে বেংক ঋণত সুত ৰেহাই কেনেকৈ পাব?"
+  },
+  {
+    "schemeId": "msme_performance_credit_rating",
+    "lang": "ur",
+    "prompt": "زیرو ڈیفیکٹ زیرو ایفیکٹ سرٹیفکیٹ سے بینک قرض پر شرح سود میں چھوٹ کیسے ملتی ہے؟"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "ta",
+    "prompt": "பிரதம மந்திரி விபத்து காப்பீட்டு திட்டத்தில் வங்கி மூலம் பதிவு செய்வது எப்படி?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "ml",
+    "prompt": "അപകട മരണമോ അംഗവൈകല്യമോ സംഭവിച്ചാൽ ഇൻഷുറൻസ് തുക എങ്ങനെ ക്ലെയിം ചെയ്യാം?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "bn",
+    "prompt": "দুর্ঘটনায় মৃত্যু বা পঙ্গুত্ব হলে ২ লক্ষ টাকা বীমা ক্লেম কীভাবে করতে হয়?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "gu",
+    "prompt": "અકસ્માતમાં 2 લાખનો ક્લેમ મેળવવાની પ્રક્રિયા શું છે?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "pa",
+    "prompt": "ਦੁਰਘਟਨਾ ਹੋਣ ਤੇ 2 ਲੱਖ ਦਾ ਬੀਮਾ ਕਲੇਮ ਲੈਣ ਦਾ ਕੀ ਤਰੀਕਾ ਹੈ?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "as",
+    "prompt": "দুৰ্ঘটনাত ক্ষতিপূৰণৰ বাবে ২ লাখ টকাৰ বীমা দাবী কেনেকৈ কৰিব?"
+  },
+  {
+    "schemeId": "pmsby_accidental_insurance",
+    "lang": "ur",
+    "prompt": "حادثے کی صورت میں 2 لاکھ روپے کا کلیم لینے کا کیا طریقہ ہے؟"
+  },
+  {
+    "schemeId": "pmjjby_life_insurance",
+    "lang": "hi",
+    "prompt": "किसी भी कारण से मृत्यु पर नॉमिनी को 2 लाख मिलने वाली पीएमजेजेबीवाई योजना में कैसे जुड़ें?"
+  },
+  {
+    "schemeId": "pmjjby_life_insurance",
+    "lang": "bn",
+    "prompt": "যেকোনো কারণে মৃত্যুতে নমিনিকে ২ লক্ষ টাকা সহায়তা দেওয়ার পিএমজেজেবিওয়াই প্রকল্পে কীভাবে আবেদন করব?"
+  },
+  {
+    "schemeId": "pmjjby_life_insurance",
+    "lang": "ur",
+    "prompt": "کسی بھی وجہ سے موت پر وارث کو 2 لاکھ کی رقم دلانے والی اسکیم میں کیسے شامل ہوں؟"
+  },
+  {
+    "schemeId": "atal_pension_yojana_apy",
+    "lang": "en",
+    "prompt": "I am 25 years old unorganized sector worker looking for guaranteed monthly pension after retirement."
+  },
+  {
+    "schemeId": "atal_pension_yojana_apy",
+    "lang": "te",
+    "prompt": "ఏపీవై పథకంలో వయస్సును బట్టి ఎంత మొత్తం చెల్లించాలి?"
+  },
+  {
+    "schemeId": "atal_pension_yojana_apy",
+    "lang": "ta",
+    "prompt": "முறைசாரா தொழிலாளர்களுக்கு அடல் ஓய்வூதிய திட்டம் மூலம் பென்ஷன் பெறுவது எப்படி?"
+  },
+  {
+    "schemeId": "atal_pension_yojana_apy",
+    "lang": "kn",
+    "prompt": "ಅಸಂಘಟಿತ ವಲಯದ ಕಾರ್ಮಿಕರು ಅಟಲ್ ಪೆನ್ಷನ್ ಯೋಜನೆಗೆ ಬ್ಯಾಂಕಿನಲ್ಲಿ ಹೇಗೆ ನೋಂದಾಯಿಸಬೇಕು?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "en",
+    "prompt": "I need to update my address and mobile number in Aadhaar card at Aadhaar Seva Kendra."
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "te",
+    "prompt": "ఆధార్ కార్డులో చిరునామా మరియు మొబైల్ నంబర్ మార్చుకోవడానికి ఏ పత్రాలు కావాలి?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "ta",
+    "prompt": "ஆதார் அட்டையில் முகவரி மற்றும் செல்போன் எண் திருத்தம் செய்வது எப்படி?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "kn",
+    "prompt": "ಆಧಾರ್ ಕಾರ್ಡ್‌ನಲ್ಲಿ ವಿಳಾಸ ಮತ್ತು ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಬದಲಾವಣೆ ಮಾಡುವುದು ಹೇಗೆ?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "ml",
+    "prompt": "ആധാർ കാർഡിൽ മേൽവിലാസവും മൊബൈൽ നമ്പറും മാറ്റാൻ എന്തുചെയ്യണം?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_enrolment_update",
+    "lang": "ur",
+    "prompt": "آدھار کارڈ میں تصحیح کے لیے کن دستاویزات کی ضرورت ہوتی ہے؟"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "en",
+    "prompt": "How to download e-Aadhaar PDF online using OTP or order official PVC card?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "en",
+    "prompt": "I lost my Aadhaar card, how to retrieve Aadhaar number and order duplicate PVC reprint for 50 rupees?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "en",
+    "prompt": "What is the password to open downloaded e-Aadhaar PDF file?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "te",
+    "prompt": "నా ఆధార్ కార్డు పోయింది, 50 రూపాయలు చెల్లించి డూప్లికేట్ పీవీసీ కార్డు ఎలా తెప్పించుకోవాలి?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "te",
+    "prompt": "ఆధార్ కార్డు డౌన్‌లోడ్ చేసుకున్న తర్వాత ఓపెన్ చేయడానికి పాస్‌వర్డ్ ఏమిటి?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "ta",
+    "prompt": "பதிவிறக்கம் செய்த ஆதார் பிடிஎஃப் திறக்க கடவுச்சொல் என்ன?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "kn",
+    "prompt": "ನನ್ನ ಆಧಾರ್ ಕಾರ್ಡ್ ಕಳೆದುಹೋಗಿದೆ, ಹೊಸ ಪಿವಿಸಿ ಕಾರ್ಡ್ ಪಡೆಯುವುದು ಹೇಗೆ?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "kn",
+    "prompt": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಆಧಾರ್ ಕಾರ್ಡ್ ಓಪನ್ ಮಾಡಲು ಪಾಸ್‌ವರ್ಡ್ ಯಾವುದು?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "ml",
+    "prompt": "ആധാർ കാർഡ് നഷ്ടപ്പെട്ടുപോയി, 50 രൂപ അടച്ച് പുതിയ പിവിസി കാർഡ് വീട്ടിൽ എങ്ങനെ വരുത്താം?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "ml",
+    "prompt": "ഡൗൺലോഡ് ചെയ്ത ആധാർ പിഡിഎഫ് തുറക്കാനുള്ള പാസ്‌വേഡ് എന്താണ്?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "mr",
+    "prompt": "डाउनलोड केलेली आधार पीडीएफ उघडण्यासाठी पासवर्ड काय असतो?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "bn",
+    "prompt": "আমার আধার কার্ড হারিয়ে গেছে, ডুপ্লিকেট পিভিসি কার্ড কীভাবে পোস্টের মাধ্যমে বাড়ি আনব?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "bn",
+    "prompt": "ডাউনলোড করা আধার পিডিএফ খোলার পাসওয়ার্ড কী?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "gu",
+    "prompt": "મારું આધાર કાર્ડ ખોવાઈ ગયું છે, નવું પીવીસી કાર્ડ ઘરે કેવી રીતે મંગાવવું?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "gu",
+    "prompt": "ડાઉનલોડ કરેલ આધાર પીડીએફ ખોલવા માટેનો પાસવર્ડ શું છે?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "pa",
+    "prompt": "ਡਾਊਨਲੋਡ ਕੀਤੇ ਆਧਾਰ ਪੀਡੀਐਫ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਪਾਸਵਰਡ ਕੀ ਹੈ?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "od",
+    "prompt": "ଡାଉନଲୋଡ ହୋଇଥିବା ଆଧାର ଫାଇଲ ଖୋଲିବାକୁ ପାସୱାର୍ଡ଼ କଣ?"
+  },
+  {
+    "schemeId": "uidai_aadhaar_download_pvc",
+    "lang": "as",
+    "prompt": "ডাউনলোড কৰা আধাৰ ফাইলটো খুলিবলৈ পাছৱৰ্ড কি দিব লাগিব?"
+  },
+  {
+    "schemeId": "pan_card_service_nsdl_uti",
+    "lang": "te",
+    "prompt": "పాన్ కార్డులో పేరు, పుట్టిన తేదీ తప్పులు సరిదిద్దుకోవడానికి ఏ పత్రాలు సమర్పించాలి?"
+  },
+  {
+    "schemeId": "pan_card_service_nsdl_uti",
+    "lang": "ta",
+    "prompt": "பான் கார்டில் பெயர், பிறந்த தேதி திருத்தம் செய்வது எப்படி?"
+  },
+  {
+    "schemeId": "pan_card_service_nsdl_uti",
+    "lang": "ml",
+    "prompt": "പാൻ കാർഡിൽ പേരും ജനനത്തീയതിയും തിരുത്താൻ എന്താണ് ചെയ്യേണ്ടത്?"
+  },
+  {
+    "schemeId": "voter_registration_eci_nvsp",
+    "lang": "en",
+    "prompt": "I turned 18 years old and want to register as new voter and download e-EPIC card."
+  },
+  {
+    "schemeId": "voter_registration_eci_nvsp",
+    "lang": "od",
+    "prompt": "୧୮ ବର୍ଷ ପୂରଣ ହେବା ପରେ ନୂଆ ଭୋଟର ତାଲିକାରେ ନାମ ପଞ୍ଜୀକରଣ କିପରି କରିବେ?"
+  },
+  {
+    "schemeId": "passport_seva_portal",
+    "lang": "ml",
+    "prompt": "പുതിയ പാസ്‌പോർട്ടിനായി ഓൺലൈനായി അപേക്ഷിച്ച് പിഎസ്കെ അപ്പോയിന്റ്മെന്റ് എങ്ങനെ എടുക്കാം?"
+  },
+  {
+    "schemeId": "vb_gram_g_rural_employment",
+    "lang": "ta",
+    "prompt": "ஊரக கூலி வேலை உத்தரவாத திட்டத்தில் வேலை கோருவது எப்படி?"
+  },
+  {
+    "schemeId": "vb_gram_g_rural_employment",
+    "lang": "mr",
+    "prompt": "ग्रामपंचायतीमध्ये १०० दिवस मजुरीचे काम मिळवण्यासाठी काय करावे?"
+  },
+  {
+    "schemeId": "vb_gram_g_rural_employment",
+    "lang": "as",
+    "prompt": "পঞ্চায়তৰ পৰা ১০০ দিনৰ কাম আৰু মজুৰি পাবলৈ কি কৰিব লাগে?"
+  },
+  {
+    "schemeId": "vb_gram_g_rural_employment",
+    "lang": "ur",
+    "prompt": "گرام پنچایت میں 100 دن کے کام اور یومیہ مزدوری کے لیے کیسے درخواست دیں؟"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "hi",
+    "prompt": "ग्रामीण कौशल योजना में प्रवेश के लिए क्या योग्यता और दस्तावेज चाहिए?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "te",
+    "prompt": "ఉచిత హాస్టల్ మరియు 70% ఉద్యోగ హామీతో నైపుణ్య శిక్షణ ఎలా దరఖాస్తు చేసుకోవాలి?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "ta",
+    "prompt": "இலவச தங்குமிடம் மற்றும் 70% வேலைவாய்ப்புடன் கூடிய தொழிற்பயிற்சி பெற எப்படி விண்ணப்பிப்பது?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "kn",
+    "prompt": "ಗ್ರಾಮೀಣ ಯುವಕರಿಗೆ ಶೇ 70 ರಷ್ಟು ಉದ್ಯೋಗ ಭರವಸೆಯೊಂದಿಗೆ ಉಚಿತ ವೃತ್ತಿಪರ ತರಬೇತಿ ಹೇಗೆ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "ml",
+    "prompt": "സൗജന്യ താമസവും 70% ജോലി ഉറപ്പുമുള്ള തൊഴിലധിഷ്ഠിത പരിശീലനത്തിനായി എങ്ങനെ അപേക്ഷിക്കാം?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "mr",
+    "prompt": "ग्रामीण तरुणांसाठी मोफत वसतिगृह आणि नोकरीची हमी देणारे प्रशिक्षण कसे घ्यावे?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "bn",
+    "prompt": "বিনামূল্যে থাকা-খাওয়া এবং ৭০% চাকরির নিশ্চয়তাসহ বৃত্তিমূলক প্রশিক্ষণে কীভাবে আবেদন করব?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "gu",
+    "prompt": "ગામડાના યુવાનો માટે મફત હોસ્ટેલ અને 70% નોકરીની ખાતરી સાથે તાલીમ કેવી રીતે મળે?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "pa",
+    "prompt": "ਪੇਂਡੂ ਨੌਜਵਾਨਾਂ ਲਈ ਮੁਫ਼ਤ ਰਿਹਾਇਸ਼ ਅਤੇ 70% ਨੌਕਰੀ ਦੀ ਗਾਰੰਟੀ ਵਾਲੀ ਸਿਖਲਾਈ ਕਿਵੇਂ ਮਿਲੇਗੀ?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "od",
+    "prompt": "ଗ୍ରାମୀଣ ଯୁବକମାନଙ୍କୁ ମାଗଣା ରହିବା-ଖାଇବା ସହ ୭୦% ଚାକିରି ନିଶ୍ଚିତ ତାଲିମ କିପରି ମିଳିବ?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "as",
+    "prompt": "গ্ৰাম্য যুৱক-যুৱতীৰ বাবে বিনামূলীয়া আৱাসিক সুবিধা আৰু চাকৰিৰ নিশ্চয়তা থকা প্ৰশিক্ষণ কেনেকৈ পাব?"
+  },
+  {
+    "schemeId": "ddu_gky_rural_skills",
+    "lang": "ur",
+    "prompt": "دیہی نوجوانوں کے لیے مفت ہاسٹل اور 70 فیصد ملازمت کی ضمانت والی تربیت کیسے ملے گی؟"
+  },
+  {
+    "schemeId": "ncs_national_career_service",
+    "lang": "ml",
+    "prompt": "സർക്കാർ, സ്വകാര്യ ജോലി ഒഴിവുകൾ എൻസിഎസിൽ എങ്ങനെ കണ്ടെത്താം?"
+  },
+  {
+    "schemeId": "pm_svanidhi_street_vendor",
+    "lang": "pa",
+    "prompt": "ਪੀਐਮ ਸਵਨਿਧੀ ਕਰਜ਼ੇ ਲਈ ਕਿਹੜੇ ਕਾਗਜ਼ਾਤ ਚਾਹੀਦੇ ਹਨ?"
+  },
+  {
+    "schemeId": "pm_svanidhi_street_vendor",
+    "lang": "od",
+    "prompt": "୭% ସୁଧ ରିହାତି ସହିତ ଷ୍ଟ୍ରିଟ ଭେଣ୍ଡର ଋଣ ପାଇଁ କିପରି ଆବେଦନ କରିବେ?"
+  },
+  {
+    "schemeId": "pm_svanidhi_street_vendor",
+    "lang": "as",
+    "prompt": "ষ্ট্ৰীট ভেণ্ডৰৰ বাবে ৭% সুত ৰাজসাহায্য থকা ক্ষুদ্ৰ ঋণ কেনেকৈ আবেদন কৰিব?"
+  }
+]
